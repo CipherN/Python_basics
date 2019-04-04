@@ -34,4 +34,4 @@ step6：上传代码至github远程仓库
 
 注意：以上为第一次创建git仓库并关联github的所有操作
 
-    之后的话只要重复执行step2、step3即可上传本地代码到github
+    之后的话只要重复执行step2、step3、git push，即可上传本地代码到github

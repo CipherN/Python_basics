@@ -6,18 +6,15 @@
 #
 #     git init
 #
-#
 # step2:将项目中的所有文件谈价至仓库中
 #
 #     git add. 将当前路径下所有文件添加到待上传的文件列表
 #
 #     git add name 将name文件添加到待上传
 #
-#
 # step3:将add的文件commit到仓库
 #
 #     git commit -m "注释语句"
-#
 #
 # step4:去github创建自己的repository
 #
@@ -26,7 +23,6 @@
 # step5:将本地仓库关联到github上
 #
 #     git remote add origin https://自己仓库的URL地址
-#
 #
 # step6：上传代码至github远程仓库
 #
